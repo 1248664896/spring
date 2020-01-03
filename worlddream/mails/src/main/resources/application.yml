@@ -1,0 +1,19 @@
+spring:
+  mail:
+    host: smtp服务器
+    username: 登录用户名
+    password: 登录密码
+    port: 8888
+    default-encoding: UTF-8
+    protocol: 协议
+    # 其他选项
+    properties:
+      mail:
+        smtp:
+          connectiontimeout: 5000
+          timeout: 3000
+          writetimeout: 5000
+          auth: true
+          starttls:
+            enable: true
+            required: true

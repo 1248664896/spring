@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feigns" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homepage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/file/I'm QQ - 每一天，乐在沟通_files.zip" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/file/gaoduanwangzhanjianshe.zip" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/static/css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/static/img" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/static/js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/index.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listaindex.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listgy00.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listgy01.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listgy02.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listgy03.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listlxwm.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listmb00.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listmb01.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listmb02.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listmb03.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listsj00.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listsj01.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listsj02.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listsj03.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listsp00.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listsp01.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listsp02.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listsp03.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listzx00.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listzx01.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/listzx02.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/lxwm.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/showindex.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homepage/src/main/resources/templates/showsj01.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mails" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main/src/main/resources/static/layui-v2.5.5" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ribbons" charset="UTF-8" />
+  </component>
+</project>

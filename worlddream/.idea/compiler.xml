@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka" />
+        <module name="feigns" />
+        <module name="ribbons" />
+        <module name="mails" />
+        <module name="feign" />
+        <module name="ribbon" />
+        <module name="configserver" />
+        <module name="main" />
+        <module name="homepage" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ribbon" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="configserver" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+      <module name="feign" options="-parameters" />
+      <module name="feigns" options="-parameters" />
+      <module name="homepage" options="-parameters" />
+      <module name="mails" options="-parameters" />
+      <module name="main" options="-parameters" />
+      <module name="ribbon" options="-parameters" />
+      <module name="ribbons" options="-parameters" />
+    </option>
+  </component>
+</project>

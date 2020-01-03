@@ -1,0 +1,28 @@
+server:
+  port: 8080
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+
+
+#      server:
+#        port: 7001
+#      eureka:
+#        instance:
+#          hostname: eureka-7001.com
+#        client:
+#          registerWithEureka: false #是否要注册到eureka，此端口所对应的服务就是一个注册中心，不需要自己注册自己（注意格式，有空格）
+#          fetchRegistry: false #表示是否从Eureka Server获取注册信息
+#          serviceUrl:
+#            #defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/ #单机配置
+#            # 注意：需要在host文件内配置对应的服务提供端访问地址hostname
+#            defaultZone: http://eureka-7002.com:7002/eureka/ #集群配置,如果有多个,有逗号分割,不要包含自己
+#      ————————————————
+#      版权声明：本文为CSDN博主「布谷_」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+#      原文链接：https://blog.csdn.net/qq_42136250/article/details/89673212
